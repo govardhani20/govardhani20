@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Govardhani Koppisetti 👋
 
-<!--
-**govardhani20/govardhani20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Engineering Student at SRKR Engineering College
 
-Here are some ideas to get you started:
+💻 Skills:
+- HTML
+- CSS
+- JavaScript
+- React
+- Java
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- UI Full Stack with Web Development
+- Web Developer
+
+📫 Connect with me:
+- LinkedIn: Your LinkedIn URL
+- GitHub: https://www.linkedin.com/in/govardhani-koppisetti-b68b802b0
+
+⭐ Interested in internships and software development opportunities.

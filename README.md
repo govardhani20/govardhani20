@@ -16,7 +16,7 @@ Hi, I'm Govardhani Koppisetti 👋
 - Web Developer
 
 📫 Connect with me:
-- LinkedIn: Your LinkedIn URL
-- GitHub: https://www.linkedin.com/in/govardhani-koppisetti-b68b802b0
+- LinkedIn:  https://www.linkedin.com/in/govardhani-koppisetti-b68b802b0
+- GitHub:   https://github.com/govardhani20
 
 ⭐ Interested in internships and software development opportunities.
